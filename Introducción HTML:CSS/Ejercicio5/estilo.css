@@ -1,0 +1,24 @@
+body {
+  background-color: #fff9ef;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h1 {
+  background-color: #ffdb8f;
+  color: #585858;
+  font-size: 25px;
+}
+
+h2 {
+  color: #6f9dc4;
+}
+
+.subtitulo {
+  color: #6780af;
+  font-weight: 500;
+}
+
+.parametros {
+  color: #7b94ae;
+}
