@@ -1,0 +1,33 @@
+h2 {
+  text-align: center;
+}
+
+table {
+  border: outset 2px;
+  width: 100%;
+  font-size: x-large;
+}
+
+tr,
+th {
+  border: 1px solid gray;
+}
+
+th.tizquierda {
+  text-align: left;
+  background-color: aqua;
+}
+
+th.verde {
+  background-color: rgba(161, 245, 161, 0.733);
+}
+
+th.trojo {
+  color: red;
+}
+
+th.tcorner {
+  background-color: #f594d5d0;
+  text-align: right;
+  vertical-align: bottom;
+}

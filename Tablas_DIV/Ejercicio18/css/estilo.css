@@ -1,0 +1,22 @@
+.divAnterior {
+  background-color: lightskyblue;
+  border-style: solid;
+  border-color: blue;
+  background-image: url(../img/f02.png), url(../img/f01.png),
+    url(../img/f03.png);
+  background-position: bottom, bottom, top;
+  background-repeat: no-repeat, repeat-x, repeat-x;
+  width: 250px;
+  height: 110px;
+}
+.divCentral {
+  background-color: lightskyblue;
+  border-style: solid;
+  border-color: red;
+  background-image: url(../img/f02.png), url(../img/f01.png),
+    url(../img/f03.png);
+  background-position: bottom left, bottom, top;
+  background-repeat: no-repeat, repeat-x, repeat-x;
+  width: 350px;
+  height: 310px;
+}

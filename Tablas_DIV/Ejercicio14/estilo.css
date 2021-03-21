@@ -1,0 +1,19 @@
+body {
+  background-image: url("pingüinos.jpeg");
+  background-repeat: no-repeat;
+  background-size: 65%;
+  background-position-x: center;
+}
+
+table {
+  background-color: #feff99;
+  width: 50%;
+  border: gray 5px outset;
+  text-align: center;
+  margin-left: 25%;
+  margin-top: 25%;
+}
+
+table th {
+  background-color: white;
+}
